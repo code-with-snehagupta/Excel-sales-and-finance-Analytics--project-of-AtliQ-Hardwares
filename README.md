@@ -1,1 +1,1 @@
-# Excel-sales-and-finance-Analytics--project-of-AtliQ-Hardwares
+# Excel-sales-and-finance-Analytics-project-of-AtliQ-Hardwares
